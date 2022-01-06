@@ -233,8 +233,8 @@ CEFR Level            C1
 [4]: <https://www.bradford.ac.uk/external/> "University of Bradford"
 [5]: <https://www.ide.uk/project-air-force> "Project aiR-FORCE"
 
-[6]: <https://alfa.me/E67vgg> "Карта и бонус от Альфа-Банка"
-[7]: <https://revolut.com/referral/alexey32co!NOV2AR> "Карта и бонус от Revolut"
+[6]: <https://alfa.me/D3mYfA> "Карта и бонус от Альфа-Банка"
+[7]: <https://revolut.com/referral/alexey32co!JAN1-22-VR-GB> "Карта и бонус от Revolut"
 
 [8]: <https://www.rea.ru/ru/org/managements/mezhdupr/Pages/exchange.aspx> "Управление международной деятельности РЭУ"
 [9]: <https://student.rea.ru/> "Личный кабинет студента РЭУ"
